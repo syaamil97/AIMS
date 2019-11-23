@@ -587,15 +587,13 @@ normal'><span style='font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:
   height:17.85pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><u><span
-  style='font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif"'>RANILO
-  S. AMOR<o:p></o:p></span></u></b></p>
+  style='font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif"'>'AKASYAH BIN SIDIK<o:p></o:p></span></u></b></p>
   </td>
   <td width=376 valign=top style='width:281.85pt;padding:0in 5.4pt 0in 5.4pt;
   height:17.85pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><u><span
-  style='font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif"'>MRS.
-  ANNETTE Z. VILLALUZ<o:p></o:p></span></u></b></p>
+  style='font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif"'>ALAXENDER LACAZETTE<o:p></o:p></span></u></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
@@ -638,7 +636,7 @@ normal'><span style='font-size:12.0pt;mso-bidi-font-size:11.0pt;font-family:
 <center>
 <hr>
 		<footer>
-           <p>All Right Reserved T.R.I.S Powered by Code Warrior ™ 2015</p>
+           <p>All Right Reserved AIMS</p>
         <footer>
 </center>
 </div>

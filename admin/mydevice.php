@@ -453,6 +453,7 @@ $id = $row['id'];
 								$teks2 = $row['date_deployment'];
 								$teks3 = $location_row['stdev_location_name'];
 								$tambah = $row['dev_name'];
+								$tambah1 = $row['dev_serial'];
 								$t=" Device:";
 								$a=" Device Brand:";
                 				$b=" Device Model:";
@@ -462,7 +463,7 @@ $id = $row['id'];
 									//Isi dari QRCode Saat discan
 									$isi_teks1 = $t.$tambah."\n".$a.$teks."\n".$b.$teks1."\n".$c.$teks2."\n".$d.$teks3."\n";
 									//Nama file yang akan disimpan pada folder temp 
-									$namafile1 = $teks.".png";
+									$namafile1 = $tambah1.".png";
 									//Kualitas dari QRCode 
 									$quality1 = 'H'; 
 									//Ukuran besar QRCode
